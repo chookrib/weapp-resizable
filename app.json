@@ -1,0 +1,14 @@
+{
+    "entryPagePath": "pages/page1/index",
+    "pages": [
+        "pages/page1/index",
+        "pages/page2/index"
+    ],
+    "window": {
+        "pageOrientation": "auto"
+    },
+    "resizable": true,
+    "renderer": "webview",
+    "componentFramework": "exparser",
+    "sitemapLocation": "sitemap.json"
+}
